@@ -1,0 +1,3 @@
+https://delta9k8b.github.io/fanpage/
+
+I couldn't figure out how to get the embedded youtube video to work without uploading to GitHub and enabling GitHub pages. 
