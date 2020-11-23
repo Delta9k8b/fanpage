@@ -1,0 +1,56 @@
+body {
+    font-family: "Montserrat";
+    padding: 25px 0px 0px 0px;
+}
+
+.marginAuto {
+    margin: auto;
+}
+
+.boxStyle1 {
+    margin: 5px auto 15px auto;
+    width: 50%;
+    background-image: linear-gradient(to bottom right, rgba(231,174,168,1), rgba(255,255,255,0));
+    padding: 25px;
+    border: .5px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+#members {
+    border: 1px solid white;
+    background-color: rgba(231,174,168,1);
+    padding-bottom: 20px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    border: .01pt solid white;
+    width: 50%;
+    padding: 10px;
+}
+
+#bioPic {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+    border: .01px solid black;
+    border-radius: 5px;
+}
+
+#bioBox {
+    line-height: 1.5;
+    width: 50%;
+}
+
+#vidBox {
+    margin: 0;
+    background-color: rgb(30,30,30);
+    color: white;
+    width: 100%;
+}
