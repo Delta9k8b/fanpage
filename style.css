@@ -18,9 +18,10 @@ body {
 }
 
 #members {
-    border: 1px solid white;
+    border: 1px solid rgb(30,30,30);
     background-color: rgba(231,174,168,1);
     padding-bottom: 20px;
+    margin: 0em;
 }
 
 .textCenter {
@@ -53,4 +54,5 @@ body {
     background-color: rgb(30,30,30);
     color: white;
     width: 100%;
+    border-color: rgb(30,30,30);
 }
